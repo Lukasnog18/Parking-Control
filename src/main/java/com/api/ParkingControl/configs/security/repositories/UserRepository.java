@@ -1,4 +1,4 @@
-package com.api.ParkingControl.repositories;
+package com.api.ParkingControl.configs.security.repositories;
 
 import com.api.ParkingControl.models.UserModel;
 import org.springframework.data.jpa.repository.JpaRepository;

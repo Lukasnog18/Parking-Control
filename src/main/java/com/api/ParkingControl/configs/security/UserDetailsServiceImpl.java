@@ -1,7 +1,7 @@
 package com.api.ParkingControl.configs.security;
 
 import com.api.ParkingControl.models.UserModel;
-import com.api.ParkingControl.repositories.UserRepository;
+import com.api.ParkingControl.configs.security.repositories.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
