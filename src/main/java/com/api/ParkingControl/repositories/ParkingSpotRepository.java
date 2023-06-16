@@ -1,4 +1,4 @@
-package com.api.ParkingControl.configs.security.repositories;
+package com.api.ParkingControl.repositories;
 
 import com.api.ParkingControl.models.ParkingSpotModel;
 import org.springframework.data.jpa.repository.JpaRepository;
